@@ -8,7 +8,7 @@
 
 <p align="center">
 :pushpin: Living in <b>Campina Grande</b>, <b>Paraíba</b>, <b>Brazil</b>
-</p>****
+</p>
 
 <p align="center">
 :computer: Passionate about <b>Software Development</b>, <b>Technological Solutions</b>, <b>Productivity</b> and <b>Personal Growth</b>
