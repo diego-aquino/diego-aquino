@@ -6,47 +6,31 @@
     <a href="http://linkedin.com/in/diego-aquino">
         <img
             alt="Linkedin"
-            src="https://img.shields.io/badge/-Linkedin-2867B2?style=plastic-square&logo=linkedin"
+            src="https://img.shields.io/static/v1?label=&message=diego-aquino&color=2867B2&style=plastic-square&logo=linkedin"
         >
     </a>
     <a href="https://github.com/diego-aquino">
         <img
             alt="GitHub"
-            src="https://img.shields.io/badge/-GitHub-24292e?style=plastic-square&logo=github"
+            src="https://img.shields.io/static/v1?label=&message=diego-aquino&color=24292e&style=plastic-square&logo=github"
         >
     </a>
     <a href="mailto:diegocruzdeaquino@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email--blue?style=social&logo=gmail">
+        <img alt="Email" src="https://img.shields.io/badge/-diegocruzdeaquino@gmail.com-d14836?style=plastic-square&logo=gmail&logoColor=white">
     </a>
 </p>
 
-<p>
-    :books: Undergraduate Computer Science Student at <b>Universidade Federal de Campina Grande</b> (<b>UFCG</b>)
-</p>
+:books: Undergraduate Computer Science Student at **Universidade Federal de Campina Grande** (**UFCG**)
 
-<p>
-    :pushpin: Living in <b>Campina Grande</b>, <b>Paraíba</b>, <b>Brazil</b>
-</p>
+:orange_heart: Passionate about **Technology**, **Software Development**, **Productivity** and **Personal Growth**
 
-<p>
-    :computer: Passionate about <b>Software Development</b>, <b>Tech Solutions</b>, <b>Productivity</b> and <b>Personal Growth</b>
-</p>
+:cityscape: **Willing to contribute to society** by collaborating with the **development of meaningful software**.
 
-<p>
-    :man_technologist: Currently studying:
-    <ul>
-        <li>
-            <b>Web Development</b> with focus on <b>Front-End</b> (<i>JS + HTML + CSS</i>)
-        </li>
-        <li>
-            <b>Development Tools</b> (<i>Git and GitHub + Productivity and Automation</i>)
-        </li>
-        <li>
-            <b>Algorithms</b>
-        </li>
-    </ul>
-</p>
+:eight_spoked_asterisk: Interested in **Frontend Web Development**
 
-<p>
-    :rocket: <i><b>Committed to be always learning!</b></i>
-</p>
+:man_technologist: Currently studying:
+- **Web Development** fundamentals (*JS + HTML + CSS*)
+- **Development Tools** (*Git and GitHub + Productivity and Automation*)
+- **Algorithms**
+
+:rocket: ***Committed to be always learning!***
