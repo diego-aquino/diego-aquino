@@ -26,7 +26,7 @@
 
 :cityscape: **Willing to contribute to society** by collaborating with the **development of meaningful software**.
 
-:eight_spoked_asterisk: Interested in **Frontend Web Development**
+:eight_spoked_asterisk: Interested in **Web Development**
 
 :man_technologist: Currently studying:
 - **Web Development** fundamentals (*JS + HTML + CSS*)
