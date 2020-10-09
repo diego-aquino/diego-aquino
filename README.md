@@ -20,7 +20,7 @@
   </a>
 </p>
 
-:green_book: Undergraduate Computer Science Student at **Universidade Federal de Campina Grande** (**UFCG**)
+:books: Undergraduate Computer Science Student at **Universidade Federal de Campina Grande** (**UFCG**)
 
 :blue_heart: Passionate about **technology**, **software development**, **productivity** and **personal growth**
 
