@@ -20,15 +20,13 @@
   </a>
 </p>
 
-:books: Undergraduate Computer Science Student at **Universidade Federal de Campina Grande** (**UFCG**)
+:green_book: Undergraduate Computer Science Student at **Universidade Federal de Campina Grande** (**UFCG**)
 
-:blue_heart: Passionate about **Technology**, **Software Development**, **Productivity** and **Personal Growth**
+:blue_heart: Passionate about **technology**, **software development**, **productivity** and **personal growth**
 
-:cityscape: **Willing to contribute to society** by collaborating with the **development of meaningful software**
+:star: Interested in **Web Development**
 
-:eight_spoked_asterisk: Interested in **Web Development**
-
-:man_technologist: Currently studying:
+:bulb: Currently studying:
 - **Frontend Web Development** (*ReactJS*)
 - **Development Tools** (*Git and GitHub*)
 - **Algorithms**
