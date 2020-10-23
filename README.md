@@ -31,7 +31,6 @@ My next goals are to improve my technical and soft skills, including to go furth
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <a href="https://github.com/diego-aquino">
@@ -45,7 +44,7 @@ My next goals are to improve my technical and soft skills, including to go furth
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003e4f&hide=python"
-      width="316.5"
+      width="317"
     />
   </a>
 </p>
