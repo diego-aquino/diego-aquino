@@ -11,7 +11,7 @@ I'm interested in **Web Development**, specially **Frontend**. My current develo
 
 My next goals are to improve my technical and soft skills, including to go further with **ReactJS** and **TypeScript**, communicate effectively and expand my expertise in order to take my applications to the next level. 🚀
 
-<p align="center">Connect with me!&nbsp;&nbsp;&nbsp;</p>
+<p align="center"><b>Connect with me!<b></p>
 <p align="center">
   <a href="http://linkedin.com/in/diego-aquino">
     <img
