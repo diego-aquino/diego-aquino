@@ -1,5 +1,5 @@
 <h2>
-  Hey! I'm Diego :wave:&nbsp;&nbsp;
+  Hey! I'm Diego :wave:
 </h2>
 
 *Undergraduate Computer Science Student at UFCG*
@@ -38,14 +38,14 @@ My next goals are to improve my technical and soft skills, including to go furth
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=diego-aquino&show_icons=true&theme=react&count_private=true&hide=stars,issues&bg_color=15,20232a,00323f"
-      width="495"
+      width="420"
     />
   </a>
   <a href="https://github.com/diego-aquino">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003e4f&hide=python"
-      width="373.5"
+      width="316.5"
     />
   </a>
 </p>
