@@ -9,7 +9,7 @@ I love to plan and build things, as well as to create software that will be trul
 
 I'm interested in **Web Development**, specially **Frontend**. My current development stack is around **JavaScript** and **ReactJS**, but I am also familiar with Python.
 
-My next goals are to improve my technical and soft skills, including to go further with **ReactJS** and **TypeScript**, communicate effectively and expand my expertise in order to take my applications to the next level. 🚀
+My next goals are to improve my technical and soft skills, including to go further with **ReactJS** and **TypeScript**, communicate effectively and enhance my expertise in order to take my applications to the next level. 🚀
 
 <p align="center"><b>Connect with me!<b></p>
 <p align="center">
