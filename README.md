@@ -44,7 +44,7 @@ My next goals are to improve my technical and soft skills, including to go furth
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003e4f&hide=python"
-      width="317"
+      width="318"
     />
   </a>
 </p>
