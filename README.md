@@ -41,12 +41,11 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  &nbsp;
-  <i>JavaScript&nbsp;&nbsp;&nbsp;</i>
+  JavaScript&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/typescript.svg"
     alt="TypeScript"
@@ -54,25 +53,23 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  &nbsp;
-  <i>TypeScript&nbsp;&nbsp;&nbsp;</i>
+  TypeScript&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/react.svg"
     alt="React"
     title="React"
     width="22px"
     height="22px"
-    style="border-radius: 2px; margin-right: 3px;"
-    align="center"
+    style="border-radius: 2px;"
+    align="top"
   />
-  &nbsp;
-  <i>React</i>&nbsp;&nbsp;&nbsp;
+  React&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/html5.svg"
     alt="HTML"
@@ -80,11 +77,11 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  <i>HTML</i>&nbsp;&nbsp;&nbsp;
+  HTML&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/css3.svg"
     alt="CSS"
@@ -92,11 +89,11 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  <i>CSS</i>&nbsp;&nbsp;&nbsp;
+  CSS&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/node-dot-js.svg"
     alt="Node.js"
@@ -104,11 +101,11 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  <i>Node.js</i>&nbsp;&nbsp;&nbsp;
+  Node.js&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/python.svg"
     alt="Python"
@@ -116,11 +113,11 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  <i>Python</i>&nbsp;&nbsp;&nbsp;
+  Python&nbsp;
   <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img
     src=".github/git.svg"
     alt="Git"
@@ -128,9 +125,9 @@ I'm interested in **Web Development**, specially **Frontend**.
     width="22px"
     height="22px"
     style="border-radius: 2px;"
-    align="center"
+    align="top"
   />
-  <i>Git</i>
+  Git
 </p>
 
 <br />
