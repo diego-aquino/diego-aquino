@@ -136,7 +136,7 @@ I'm interested in **Web Development**, specially **Frontend**.
   <a href="https://github.com/diego-aquino">
     <img
       alt="Diego Aquino's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=diego-aquino&show_icons=true&theme=react&count_private=true&hide=stars&bg_color=15,20232a,003e4f"
+      src="https://github-readme-stats.vercel.app/api?username=diego-aquino&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003e4f"
       width="420"
       align="bottom"
     />
