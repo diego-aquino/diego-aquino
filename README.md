@@ -37,55 +37,55 @@
 #### :zap: My stack
 <p>
   <code><img
-    src=".github/javascript.svg"
+    src=".github/icons/javascript.svg"
     alt="JavaScript"
     title="JavaScript"
     height="20px"
   /></code>
   <code><img
-    src=".github/typescript.svg"
+    src=".github/icons/typescript.svg"
     alt="TypeScript"
     title="TypeScript"
     height="20px"
   /></code>
   <code><img
-    src=".github/react.svg"
+    src=".github/icons/react.svg"
     alt="React"
     title="React"
     height="20px"
   /></code>
   <code><img
-    src=".github/next-dot-js.svg"
+    src=".github/icons/next-dot-js.svg"
     alt="Next.js"
     title="Next.js"
     height="20px"
   /></code>
   <code><img
-    src=".github/html5.svg"
+    src=".github/icons/html5.svg"
     alt="HTML"
     title="HTML"
     height="20px"
   /></code>
   <code><img
-    src=".github/css3.svg"
+    src=".github/icons/css3.svg"
     alt="CSS"
     title="CSS"
     height="20px"
   /></code>
   <code><img
-    src=".github/node-dot-js.svg"
+    src=".github/icons/node-dot-js.svg"
     alt="Node.js"
     title="Node.js"
     height="20px"
   /></code>
   <code><img
-    src=".github/python.svg"
+    src=".github/icons/python.svg"
     alt="Python"
     title="Python"
     height="20px"
   /></code>
   <code><img
-    src=".github/git.svg"
+    src=".github/icons/git.svg"
     alt="Git"
     title="Git"
     height="20px"
