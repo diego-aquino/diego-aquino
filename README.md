@@ -26,127 +26,87 @@
   </span>
 </h2>
 
-*Undergraduate Computer Science Student at **UFCG*** 🎓
+*Frontend Developer*&nbsp; | *Undergraduate Computer Science Student at **UFCG** 🎓*
 
-I am a software developer passionate about everything related to technology. I love planning and building things, as well as learning and using my skills to make a positive impact on the world! :bulb:
+- :star: I'm passionate about technology and how it can impact positively on countless people's lives.
+- :bulb: I enjoy applying my skills to solve real world problems and deliver value to users through technology.
+- :seedling: I love building products and software solutions.
+- :telescope: I'm continuously learning and expanding my skill set.
+- :rocket: I'm open to new challenges and opportunities.
 
-I'm interested in **Web Development**, specially **Frontend**.
-
-:rocket: ***Skilled with***:
+#### :zap: My stack
 <p>
-  <img
+  <code><img
     src=".github/javascript.svg"
     alt="JavaScript"
     title="JavaScript"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  JavaScript&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
     src=".github/typescript.svg"
     alt="TypeScript"
     title="TypeScript"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  TypeScript&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
     src=".github/react.svg"
     alt="React"
     title="React"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  React&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
+    src=".github/next-dot-js.svg"
+    alt="Next.js"
+    title="Next.js"
+    height="20px"
+  /></code>
+  <code><img
     src=".github/html5.svg"
     alt="HTML"
     title="HTML"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  HTML&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
     src=".github/css3.svg"
     alt="CSS"
     title="CSS"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  CSS&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
     src=".github/node-dot-js.svg"
     alt="Node.js"
     title="Node.js"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  Node.js&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
     src=".github/python.svg"
     alt="Python"
     title="Python"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  Python&nbsp;
-  <img src=".github/separator.svg" alt="|" height="20px" align="center" />
-  &nbsp;
-  <img
+    height="20px"
+  /></code>
+  <code><img
     src=".github/git.svg"
     alt="Git"
     title="Git"
-    width="22px"
-    height="22px"
-    style="border-radius: 2px;"
-    align="top"
-  />
-  Git
+    height="20px"
+  /></code>
 </p>
 
 <br />
 
-<p align="center">
-  <a href="https://github.com/diego-aquino">
-    <img
-      alt="Diego Aquino's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=diego-aquino&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003e4f"
-      width="420"
-      align="bottom"
-    />
-  </a>
-  <a href="https://github.com/diego-aquino">
-    <img
-      alt="Diego Aquino's Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003e4f&hide=python"
-      width="318"
-      align="bottom"
-    />
-  </a>
-</p>
+<a href="https://github.com/diego-aquino">
+  <img
+    alt="Diego Aquino's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=diego-aquino&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003644"
+    width="420"
+    align="bottom"
+  />
+</a>
+<a href="https://github.com/diego-aquino">
+  <img
+    alt="Diego Aquino's Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003644&hide=python"
+    width="318"
+    align="bottom"
+  />
+</a>
