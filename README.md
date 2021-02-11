@@ -28,8 +28,8 @@
 
 *Frontend Developer*&nbsp; | *Undergraduate Computer Science Student at **UFCG** 🎓*
 
-- :star: I'm passionate about technology and how it can impact positively on countless people's lives.
-- :bulb: I enjoy applying my skills to solve real world problems and deliver value to users through technology.
+- :star: I'm passionate about technology and how it can impact countless people's lives.
+- :bulb: I enjoy applying my skills to solve real-world problems and deliver value to users through technology.
 - :seedling: I love building products and software solutions.
 - :telescope: I'm continuously learning and expanding my skill set.
 - :rocket: I'm open to new challenges and opportunities.
