@@ -1,5 +1,5 @@
 <h2>
-  Hey! I'm Diego :wave:
+  Hi! I'm Diego :wave:
   &nbsp;
   <span>
     <a href="http://linkedin.com/in/diego-aquino">
@@ -26,7 +26,7 @@
   </span>
 </h2>
 
-*Software Developer*&nbsp; | *Undergraduate Computer Science Student at **UFCG** 🎓*
+Software Developer at [CodeX](https://www.linkedin.com/company/codexjr/mycompany) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br) 🎓
 
 - :star: I'm passionate about technology and how it can impact countless people's lives
 - :bulb: I enjoy applying my skills to solve real-world problems and deliver value to users through technology
@@ -35,6 +35,7 @@
 - :rocket: I'm open to new challenges and opportunities
 
 #### :zap: My stack
+
 <p>
   <code><img
     src=".github/icons/javascript.svg"
