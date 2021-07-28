@@ -26,7 +26,7 @@
   </span>
 </h2>
 
-Software Developer at [CodeX](https://www.linkedin.com/company/codexjr/mycompany) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br) 🎓
+Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br) 🎓
 
 - :star: I'm passionate about technology and how it can impact countless people's lives
 - :bulb: I enjoy applying my skills to solve real-world problems and deliver value to users through technology
@@ -80,20 +80,12 @@ Software Developer at [CodeX](https://www.linkedin.com/company/codexjr/mycompany
     height="20px"
   /></code>
   <code><img
-    src=".github/icons/python.svg"
-    alt="Python"
-    title="Python"
-    height="20px"
-  /></code>
-  <code><img
     src=".github/icons/git.svg"
     alt="Git"
     title="Git"
     height="20px"
   /></code>
 </p>
-
-<br />
 
 <a href="https://github.com/diego-aquino">
   <img
@@ -103,6 +95,7 @@ Software Developer at [CodeX](https://www.linkedin.com/company/codexjr/mycompany
     align="bottom"
   />
 </a>
+
 <a href="https://github.com/diego-aquino">
   <img
     alt="Diego Aquino's Most Used Languages"
