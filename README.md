@@ -37,54 +37,86 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
 #### :zap: My stack
 
 <p>
-  <code><img
-    src=".github/icons/javascript.svg"
-    alt="JavaScript"
-    title="JavaScript"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/typescript.svg"
-    alt="TypeScript"
-    title="TypeScript"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/react.svg"
-    alt="React"
-    title="React"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/next-dot-js.svg"
-    alt="Next.js"
-    title="Next.js"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/html5.svg"
-    alt="HTML"
-    title="HTML"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/css3.svg"
-    alt="CSS"
-    title="CSS"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/node-dot-js.svg"
-    alt="Node.js"
-    title="Node.js"
-    height="20px"
-  /></code>
-  <code><img
-    src=".github/icons/git.svg"
-    alt="Git"
-    title="Git"
-    height="20px"
-  /></code>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img
+      src=".github/icons/javascript.svg"
+      alt="JavaScript"
+      title="JavaScript"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org">
+    <img
+      src=".github/icons/typescript.svg"
+      alt="TypeScript"
+      title="TypeScript"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org">
+    <img
+      src=".github/icons/react.svg"
+      alt="React"
+      title="React"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://nextjs.org">
+    <img
+      src=".github/icons/next-dot-js.svg"
+      alt="Next.js"
+      title="Next.js"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img
+      src=".github/icons/html5.svg"
+      alt="HTML"
+      title="HTML"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img
+      src=".github/icons/css3.svg"
+      alt="CSS"
+      title="CSS"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org/en">
+    <img
+      src=".github/icons/node-dot-js.svg"
+      alt="Node.js"
+      title="Node.js"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://jestjs.io">
+    <img
+      src=".github/icons/jest.svg"
+      alt="Jest"
+      title="Jest"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com">
+    <img
+      src=".github/icons/git.svg"
+      alt="Git"
+      title="Git"
+      height="20px"
+    />
+  </a>
 </p>
 
 <a href="https://github.com/diego-aquino">
