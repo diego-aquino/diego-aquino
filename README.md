@@ -37,20 +37,20 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
 #### :zap: My stack
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img
-      src=".github/icons/javascript.svg"
-      alt="JavaScript"
-      title="JavaScript"
-      height="20px"
-    />
-  </a>
-  &nbsp;
   <a href="https://www.typescriptlang.org">
     <img
       src=".github/icons/typescript.svg"
       alt="TypeScript"
       title="TypeScript"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img
+      src=".github/icons/javascript.svg"
+      alt="JavaScript"
+      title="JavaScript"
       height="20px"
     />
   </a>
@@ -91,15 +91,6 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
-  <a href="https://nodejs.org/en">
-    <img
-      src=".github/icons/node-dot-js.svg"
-      alt="Node.js"
-      title="Node.js"
-      height="20px"
-    />
-  </a>
-  &nbsp;
   <a href="https://jestjs.io">
     <img
       src=".github/icons/jest.svg"
@@ -109,11 +100,38 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
+  <a href="https://nodejs.org/en">
+    <img
+      src=".github/icons/node-dot-js.svg"
+      alt="Node.js"
+      title="Node.js"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com">
+    <img
+      src=".github/icons/mongodb.svg"
+      alt="MongoDB"
+      title="MongoDB"
+      height="20px"
+    />
+  </a>
+  &nbsp;
   <a href="https://git-scm.com">
     <img
       src=".github/icons/git.svg"
       alt="Git"
       title="Git"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash">
+    <img
+      src=".github/icons/bash.svg"
+      alt="Bash"
+      title="Bash"
       height="20px"
     />
   </a>
