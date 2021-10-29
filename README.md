@@ -141,7 +141,7 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
   <img
     alt="Diego Aquino's GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=diego-aquino&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003644&custom_title=Diego's%20GitHub%20Stats"
-    width="420"
+    height="164"
     align="bottom"
   />
 </a>
@@ -150,7 +150,7 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
   <img
     alt="Diego Aquino's Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003644&hide=python&langs_count=6"
-    width="318"
+    height="164"
     align="bottom"
   />
 </a>
