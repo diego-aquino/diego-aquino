@@ -1,5 +1,5 @@
 <h2>
-  Hi! I'm Diego :wave:
+  Hi, I'm Diego! :wave:
   &nbsp;
   <span>
     <a href="http://linkedin.com/in/diego-aquino">
@@ -9,17 +9,17 @@
         align="center"
       />
     </a>
-    <a href="https://github.com/diego-aquino">
-      <img
-        alt="GitHub"
-        src="https://img.shields.io/static/v1?label=&message=GitHub&color=24292e&style=flat-square&logo=github"
-        align="center"
-      />
-    </a>
     <a href="mailto:diegocruzdeaquino@gmail.com">
       <img
         alt="Email"
         src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white"
+        align="center"
+      />
+    </a>
+    <a href="https://github.com/diego-aquino">
+      <img
+        alt="GitHub"
+        src="https://img.shields.io/static/v1?label=&message=GitHub&color=24292e&style=flat-square&logo=github"
         align="center"
       />
     </a>
@@ -91,11 +91,11 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
-  <a href="https://jestjs.io">
+  <a href="https://sass-lang.com">
     <img
-      src=".github/icons/jest.svg"
-      alt="Jest"
-      title="Jest"
+      src=".github/icons/sass.svg"
+      alt="SASS"
+      title="SASS"
       height="20px"
     />
   </a>
@@ -109,11 +109,11 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
-  <a href="https://www.mongodb.com">
+  <a href="https://jestjs.io">
     <img
-      src=".github/icons/mongodb.svg"
-      alt="MongoDB"
-      title="MongoDB"
+      src=".github/icons/jest.svg"
+      alt="Jest"
+      title="Jest"
       height="20px"
     />
   </a>
@@ -132,6 +132,15 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/bash.svg"
       alt="Bash"
       title="Bash"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com">
+    <img
+      src=".github/icons/mongodb.svg"
+      alt="MongoDB"
+      title="MongoDB"
       height="20px"
     />
   </a>
