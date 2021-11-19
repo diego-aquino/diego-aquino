@@ -127,6 +127,24 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
+  <a href="https://github.com/about">
+    <img
+      src=".github/icons/github.svg"
+      alt="GitHub"
+      title="GitHub"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/features/actions">
+    <img
+      src=".github/icons/github-actions.svg"
+      alt="GitHub Actions"
+      title="GitHub Actions"
+      height="20px"
+    />
+  </a>
+  &nbsp;
   <a href="https://www.gnu.org/software/bash">
     <img
       src=".github/icons/bash.svg"
