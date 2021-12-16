@@ -26,7 +26,7 @@
   </span>
 </h2>
 
-Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br) 🎓
+Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br) 🎓
 
 - :star: I'm passionate about technology and how it can impact countless people's lives
 - :bulb: I enjoy applying my skills to solve real-world problems and deliver value to users through technology
@@ -176,7 +176,7 @@ Frontend Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
 <a href="https://github.com/diego-aquino">
   <img
     alt="Diego Aquino's Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003644&hide=python&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6"
     height="164"
     align="bottom"
   />
