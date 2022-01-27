@@ -154,11 +154,11 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
-  <a href="https://www.mongodb.com">
+  <a href="https://www.postgresql.org">
     <img
-      src=".github/icons/mongodb.svg"
-      alt="MongoDB"
-      title="MongoDB"
+      src=".github/icons/postgresql.svg"
+      alt="PostgreSQL"
+      title="PostgreSQL"
       height="20px"
     />
   </a>
