@@ -176,7 +176,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
 <a href="https://github.com/diego-aquino">
   <img
     alt="Diego Aquino's Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-aquino&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6&hide=haskell"
     height="164"
     align="bottom"
   />
