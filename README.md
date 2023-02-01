@@ -91,6 +91,15 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
+  <a href="https://tailwindcss.com">
+    <img
+      src=".github/icons/tailwindcss.svg"
+      alt="Tailwind CSS"
+      title="Tailwind CSS"
+      height="20px"
+    />
+  </a>
+  &nbsp;
   <a href="https://sass-lang.com">
     <img
       src=".github/icons/sass.svg"
@@ -114,6 +123,15 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/jest.svg"
       alt="Jest"
       title="Jest"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.cypress.io">
+    <img
+      src=".github/icons/cypress.svg"
+      alt="Cypress"
+      title="Cypress"
       height="20px"
     />
   </a>
@@ -145,11 +163,11 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
     />
   </a>
   &nbsp;
-  <a href="https://www.gnu.org/software/bash">
+  <a href="https://www.docker.com">
     <img
-      src=".github/icons/bash.svg"
-      alt="Bash"
-      title="Bash"
+      src=".github/icons/docker.svg"
+      alt="Docker"
+      title="Docker"
       height="20px"
     />
   </a>
@@ -159,6 +177,15 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/postgresql.svg"
       alt="PostgreSQL"
       title="PostgreSQL"
+      height="20px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash">
+    <img
+      src=".github/icons/bash.svg"
+      alt="Bash"
+      title="Bash"
       height="20px"
     />
   </a>
