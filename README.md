@@ -34,7 +34,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
 - :telescope: I'm continuously learning
 - :rocket: I'm open to new challenges and opportunities
 
-#### :zap: Technologies
+### :zap: Technologies
 
 <p>
   <a href="https://www.typescriptlang.org">
