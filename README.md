@@ -1,5 +1,5 @@
 <h2>
-  Hi, I'm Diego! :wave:
+  Hi, I'm Diego! :v:
   &nbsp;
   <span>
     <a href="http://linkedin.com/in/diego-aquino">
@@ -34,7 +34,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
 - :telescope: I'm continuously learning
 - :rocket: I'm open to new challenges and opportunities
 
-#### :zap: My stack
+#### :zap: Technologies
 
 <p>
   <a href="https://www.typescriptlang.org">
@@ -42,7 +42,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/typescript.svg"
       alt="TypeScript"
       title="TypeScript"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -51,7 +51,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/javascript.svg"
       alt="JavaScript"
       title="JavaScript"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -60,7 +60,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/react.svg"
       alt="React"
       title="React"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -69,7 +69,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/next-dot-js.svg"
       alt="Next.js"
       title="Next.js"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -78,7 +78,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/html5.svg"
       alt="HTML"
       title="HTML"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -87,7 +87,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/css3.svg"
       alt="CSS"
       title="CSS"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -96,7 +96,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/tailwindcss.svg"
       alt="Tailwind CSS"
       title="Tailwind CSS"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -105,7 +105,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/sass.svg"
       alt="SASS"
       title="SASS"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -114,7 +114,16 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/node-dot-js.svg"
       alt="Node.js"
       title="Node.js"
-      height="20px"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://swc.rs">
+    <img
+      src=".github/icons/swc.svg"
+      alt="SWC"
+      title="SWC"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -123,7 +132,25 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/jest.svg"
       alt="Jest"
       title="Jest"
-      height="20px"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://vitest.dev">
+    <img
+      src=".github/icons/vitest.svg"
+      alt="Vitest"
+      title="Vitest"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://testing-library.com">
+    <img
+      src=".github/icons/testing-library.svg"
+      alt="Testing Library"
+      title="Testing Library"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -132,7 +159,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/cypress.svg"
       alt="Cypress"
       title="Cypress"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -141,7 +168,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/git.svg"
       alt="Git"
       title="Git"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -150,7 +177,7 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/github.svg"
       alt="GitHub"
       title="GitHub"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -159,16 +186,34 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/github-actions.svg"
       alt="GitHub Actions"
       title="GitHub Actions"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
+  <a href="https://turbo.build/repo">
+    <img
+      src=".github/icons/turborepo.svg"
+      alt="Turborepo"
+      title="Turborepo"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://webpack.js.org">
+    <img
+      src=".github/icons/webpack.svg"
+      alt="Webpack"
+      title="Webpack"
+      height="26px"
+    />
+  </a>
+  <br>
   <a href="https://www.docker.com">
     <img
       src=".github/icons/docker.svg"
       alt="Docker"
       title="Docker"
-      height="20px"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -177,7 +222,16 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/postgresql.svg"
       alt="PostgreSQL"
       title="PostgreSQL"
-      height="20px"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com">
+    <img
+      src=".github/icons/mongodb.svg"
+      alt="MongoDB"
+      title="MongoDB"
+      height="26px"
     />
   </a>
   &nbsp;
@@ -186,7 +240,16 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Undergraduate Comput
       src=".github/icons/bash.svg"
       alt="Bash"
       title="Bash"
-      height="20px"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com">
+    <img
+      src=".github/icons/vscode.svg"
+      alt="Visual Studio Code"
+      title="Visual Studio Code"
+      height="26px"
     />
   </a>
 </p>
