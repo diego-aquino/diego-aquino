@@ -244,15 +244,6 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scr
     />
   </a>
   &nbsp;
-  <a href="https://www.mongodb.com">
-    <img
-      src=".github/icons/mongodb.svg"
-      alt="MongoDB"
-      title="MongoDB"
-      height="26px"
-    />
-  </a>
-  &nbsp;
   <a href="https://www.gnu.org/software/bash">
     <img
       src=".github/icons/bash.svg"
