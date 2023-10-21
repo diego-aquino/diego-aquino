@@ -216,12 +216,20 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scr
       height="26px"
     />
   </a>
-  <br>
   <a href="https://www.docker.com">
     <img
       src=".github/icons/docker.svg"
       alt="Docker"
       title="Docker"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://kubernetes.io/">
+    <img
+      src=".github/icons/kubernetes.svg"
+      alt="Kubernetes"
+      title="Kubernetes"
       height="26px"
     />
   </a>
