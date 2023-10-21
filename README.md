@@ -154,6 +154,15 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scr
     />
   </a>
   &nbsp;
+  <a href="https://playwright.dev">
+    <img
+      src=".github/icons/playwright.svg"
+      alt="Playwright"
+      title="Playwright"
+      height="26px"
+    />
+  </a>
+  &nbsp;
   <a href="https://www.cypress.io">
     <img
       src=".github/icons/cypress.svg"
@@ -222,6 +231,15 @@ Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scr
       src=".github/icons/postgresql.svg"
       alt="PostgreSQL"
       title="PostgreSQL"
+      height="26px"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/">
+    <img
+      src=".github/icons/mysql.svg"
+      alt="MySQL"
+      title="MySQL"
       height="26px"
     />
   </a>
