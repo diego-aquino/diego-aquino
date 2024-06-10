@@ -26,7 +26,7 @@
   </span>
 </h2>
 
-Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scroll <img src="./.github/icons/fastscroll.png" width="16px" height="16px" align="center">](https://fastscroll.io) | Building [Zimic](https://github.com/diego-aquino/zimic) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
+Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scroll <img src="./.github/icons/fastscroll.png" width="16px" height="16px" align="center">](https://fastscroll.io) | Building [Zimic](https://github.com/zimicjs/zimic) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
 
 - :star: I'm passionate about technology and how it can improve people's lives
 - :bulb: I enjoy applying my skills to solve real-world problems and deliver value to users through software
