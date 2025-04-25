@@ -219,6 +219,16 @@ Bachelor in Computer Science at [UFCG](https://portal.ufcg.edu.br) | Software En
       height="26px"
     />
   </a>
+  &nbsp;
+  <a href="https://aws.amazon.com">
+    <img
+      src=".github/icons/aws.svg"
+      alt="AWS"
+      title="AWS"
+      height="26px"
+    />
+  </a>
+  &nbsp;
   <a href="https://www.docker.com">
     <img
       src=".github/icons/docker.svg"
@@ -260,15 +270,6 @@ Bachelor in Computer Science at [UFCG](https://portal.ufcg.edu.br) | Software En
       src=".github/icons/bash.svg"
       alt="Bash"
       title="Bash"
-      height="26px"
-    />
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com">
-    <img
-      src=".github/icons/vscode.svg"
-      alt="Visual Studio Code"
-      title="Visual Studio Code"
       height="26px"
     />
   </a>
