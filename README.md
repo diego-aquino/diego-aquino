@@ -26,7 +26,10 @@
   </span>
 </h2>
 
-Software Engineer at [Smartiks](https://www.smartiks.com) | Creator of [Fast Scroll <img src="./.github/icons/fastscroll.png" width="16px" height="16px" align="center">](https://fastscroll.io) | Building [Zimic](https://github.com/zimicjs/zimic) | Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
+Bachelor in Computer Science at [UFCG](https://portal.ufcg.edu.br) | Software Engineer at
+[Smartiks](https://www.smartiks.com) | Building
+[<img src="./.github/icons/zimic.png" width="16px" height="16px" align="center"> Zimic](https://zimic.dev) | Creator of
+[<img src="./.github/icons/fastscroll.png" width="16px" height="16px" align="center"> Fast Scroll](https://fastscroll.io)
 
 - :star: I'm passionate about technology and how it can improve people's lives
 - :bulb: I enjoy applying my skills to solve real-world problems and deliver value to users through software
